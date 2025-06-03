@@ -127,3 +127,45 @@ This project is dedicated to the public domain under the **Creative Commons Zero
 For more details, please refer to the `LICENSE` file in the repository.
 
 ---
+
+### 🔗 시스템 구성 파일 및 외부 모듈 연동 설명
+
+본 프로젝트는 다음의 **핵심 개념 문서** 및 **연결된 GitHub 리포지토리**와 유기적으로 연동되며, 각 파일과 외부 모듈은 시스템의 주요 레이어 또는 원칙 구현에 직접 기여합니다:
+
+1. **📄 \[강화 학습 통합 시스템 개념 설계 보고서]\(./강화 학습 통합 시스템\_개념 설계 보고서.md)**
+   → 시스템 전체 설계 청사진으로, 네 가지 개념 레이어 구조 및 데이터 흐름, 학습-윤리 통합 전략 등을 상세히 제시합니다.
+
+2. **📄 \[AI의 자연스러운 기억 체계 구축 v2.0 – 경량 UX 유지형]\(./AI의 자연스러운 기억 체계 구축 v2.0 – 경량 UX 유지형 (지속 가능+관리 명령어 포함).md)**
+   → ‘통합 기억 및 경험 관리 레이어’의 구현 기반이 되며, 감정 기반 기억 저장, 요약 구조화, 사용자 승인 중심 저장 흐름 등을 포함합니다.
+   📎 관련 리포지토리: [AI-Natural-Memory (GitHub)](https://github.com/sorihanul/AI-Natural-Memory)
+
+3. **📄 \[인지 주입 프로토콜 – Cognitive Injection Protocol]\(./인지 주입 프로토콜\_Cognitive Injection Protocol.md)**
+   → ‘인지 변환 레이어’ 및 ‘윤리적 정책 생성’에 적용되며, 인지 도식 추출, 감정·문화적 맥락 이해, 윤리 선언 기반 정책화 구조를 제안합니다.
+   📎 관련 리포지토리: [CognoTranslate-Gem (GitHub)](https://github.com/sorihanul/CognoTranslate-Gem)
+
+> 이 문서들과 모듈들은 시스템이 **인지 기반 강화 학습**, **감정 중심 메모리 구조**, **윤리 내재화된 정책 생성**을 균형 있게 구현하도록 설계된 통합 프레임워크의 핵심 축입니다.
+
+---
+
+### 🔗 Integrated Files & Linked Repositories
+
+This project is tightly integrated with the following **core conceptual files** and **external GitHub modules**, each of which directly contributes to the implementation of major layers or design principles within the system:
+
+1. **📄 \[Conceptual Design Report for Integrated Reinforcement Learning System]\(./강화 학습 통합 시스템\_개념 설계 보고서.md)**
+   → Serves as the architectural blueprint of the entire system, detailing the four conceptual layers, data flow, and the synergy between cognitive learning and ethical policy generation.
+
+2. **📄 \[AI's Natural Memory System v2.0 – Lightweight UX Mode]\(./AI의 자연스러운 기억 체계 구축 v2.0 – 경량 UX 유지형 (지속 가능+관리 명령어 포함).md)**
+   → Forms the basis of the *Integrated Memory & Experience Management Layer*, implementing emotion-based memory compression, user-confirmed storage, and long-term management commands.
+   📎 Related Repository: [AI-Natural-Memory (GitHub)](https://github.com/sorihanul/AI-Natural-Memory)
+
+3. **📄 \[Cognitive Injection Protocol]\(./인지 주입 프로토콜\_Cognitive Injection Protocol.md)**
+   → Supports the *Cognitive Transformation Layer* and *Ethical Policy Generation*, providing structures for image schema extraction, emotion-culture mapping, and ethics-aware policy modeling.
+   📎 Related Repository: [CognoTranslate-Gem (GitHub)](https://github.com/sorihanul/CognoTranslate-Gem)
+
+> These documents and modules collectively define a unified architecture for AI systems that balance **cognitive reinforcement learning**, **emotion-centered memory structures**, and **ethically grounded policy generation**.
+
+---
+
+
+
+
